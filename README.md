@@ -1,4 +1,4 @@
-#### Differences Between Interfaces and Types in TypeScript
+### <ins>What are some differences between interfaces and types in TypeScript?</ins>
 
 - Interfaces can only be used in classes and objects whereas types are used for primitives, objects, tuples, unions, etc.
 - When declaring an interface and type, there are differences in syntax.
@@ -38,9 +38,9 @@ type DogType = AnimalType & { age: number; species: string };
 
 - Interface is used for implementation and extending classes whereas type is not used for implementation purposes.
 
+<br>
 
-
-#### Provide an example of using union and intersection types in TypeScript.
+### <ins>Provide an example of using union and intersection types in TypeScript.</ins>
 
 Example:
 
